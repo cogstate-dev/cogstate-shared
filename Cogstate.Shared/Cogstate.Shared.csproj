@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>e2c1a7b2-4f3d-4c8a-9b1e-2d6f8a1c3e5f</UserSecretsId>
+        <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
+        <Version>1.0.0</Version>
+    </PropertyGroup>
+
+</Project>

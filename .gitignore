@@ -1,0 +1,40 @@
+# Ignore build output
+bin/
+obj/
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+# NuGet restore files
+project.lock.json
+project.fragment.lock.json
+*.nuget.props
+*.nuget.targets
+
+# VS Code files
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Others
+*.vspscc
+*.vssscc
+_ReSharper*/
+
+# Test results
+TestResults/
+
