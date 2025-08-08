@@ -7,6 +7,13 @@
         <UserSecretsId>e2c1a7b2-4f3d-4c8a-9b1e-2d6f8a1c3e5f</UserSecretsId>
         <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
         <Version>1.0.0</Version>
+        <Authors>Imran Valiyev</Authors>
+        <Company>Cogstate Ltd.</Company>
+        <PackageId>Cogstate.Shared</PackageId>
+        <Description>Shared models, enums, and logic for Cogstate projects.</Description>
+        <PackageTags>cogstate;shared;models;enums</PackageTags>
+        <PackageProjectUrl>https://www.cogstate.com/</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/cogstate-dev/cogstate-shared</RepositoryUrl>
     </PropertyGroup>
 
 </Project>
